@@ -33,3 +33,16 @@ Compreendendo do que são "Sockets" e criação de um servidor TCP em Python usa
 
 <br clear="left"/>
 <p></p>
+<img 
+  src="https://github.com/user-attachments/assets/b3332c01-98c3-456c-b01a-0d10df6a5b9d"
+  alt="image" 
+  width="300" 
+  align="left"
+  style="margin-right: 20px;"
+/>
+✅ Introdução e Configuração
+<br>
+Criação de um "TCP Client" em python para se ligar ao "Server".
+
+<br clear="left"/>
+
