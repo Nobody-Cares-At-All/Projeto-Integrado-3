@@ -27,11 +27,11 @@
 <br>
 Instalação do Python e configuração do Visual Studio Code com a extensão "Python Extension Pack".
 <br>
-✅ Compreendendo Sockets e Criação de um Servidor TCP
+✅ Compreensão de Sockets e Criação de um Servidor TCP
 <br>
-Compreendendo do que são "Sockets" e criação de um servidor TCP em Python usando a bicicleta "socket".
-
+Compreensão do que são "Sockets" e criação de um servidor TCP em Python usando a bicicleta "socket".
 <br clear="left"/>
+
 <p></p>
 <img 
   src="https://github.com/user-attachments/assets/b3332c01-98c3-456c-b01a-0d10df6a5b9d"
@@ -40,9 +40,20 @@ Compreendendo do que são "Sockets" e criação de um servidor TCP em Python usa
   align="left"
   style="margin-right: 20px;"
 />
-✅ Introdução e Configuração
+✅ Criação de um "Client"
 <br>
 Criação de um "TCP Client" em python para se ligar ao "Server".
-
 <br clear="left"/>
 
+<p></p>
+<img 
+  src="https://github.com/user-attachments/assets/5a2fda70-6ccf-42bc-b8a3-0f9941bbbadd"
+  alt="image" 
+  width="300" 
+  align="left"
+  style="margin-right: 20px;"
+/>
+✅ Criação de um Scaner de ips
+<br>
+Criação de um "Scaner" que usa TCP e UDP usando a biblioteca "Nmap".
+<br clear="left"/>
