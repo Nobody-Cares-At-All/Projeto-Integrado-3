@@ -53,7 +53,7 @@ Criação de um "TCP Client" em python para se ligar ao "Server".
   align="left"
   style="margin-right: 20px;"
 />
-✅ Criação de um Scaner de ips
+✅ Criação de um Scanner de ips
 <br>
-Criação de um "Scaner" que usa TCP e UDP usando a biblioteca "Nmap".
+Criação de um "Scanner" que usa TCP e UDP usando a biblioteca "Nmap".
 <br clear="left"/>
