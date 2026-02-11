@@ -91,3 +91,16 @@ Estudos sober o foncionamento de Laravel.
 <br>
 Instalação de Laravel através do Composer.
 <br clear="left"/>
+<h3>11/02/2026</h3>
+<img 
+  src="https://github.com/user-attachments/assets/3087904d-a352-4c7b-aad0-634ef7d206aa"" 
+  alt="image" 
+  width="300" 
+  align="left"
+  style="margin-right: 20px;"
+/>
+✅ Criação de uma app em Laravel
+<br>
+Criação de uma Base de Dabos(onde o informação é guardada), Views(as paginas que o user usa para interagir) e Controllers(Middleware que impede a interação direta com a base de dados).
+<br clear="left"/>
+<!--<img width="1858" height="982" alt="image" src="https://github.com/user-attachments/assets/8d32ae1f-7d54-466d-b993-b34127d3c871" />-->
